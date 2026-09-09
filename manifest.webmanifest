@@ -1,0 +1,16 @@
+{
+  "name": "Physiotherapie Faro München",
+  "short_name": "Physio Faro",
+  "description": "Ihre Praxis für Physiotherapie, Manuelle Therapie & Rehabilitation in München Maxvorstadt. 5,0 Sterne auf Google.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#0d8a7d",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
