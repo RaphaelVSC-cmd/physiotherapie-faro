@@ -22,7 +22,7 @@
 - [x] Phase 4: Selbst-Audit (docs/review.md)
 - [x] Phase 5: QA-Test 375/768/1024/1440px (Zero Collision nachgewiesen)
 - [x] Phase 5.5: 8-Säulen-Audit (website-audit-pro: 100/100 Grün)
-- [ ] Phase 6: GitHub Deployment
+- [x] Phase 6: GitHub Deployment (https://github.com/RaphaelVSC-cmd/physiotherapie-faro)
 - [x] Phase 7: Dokumentation + ANLEITUNG (README.md & docs/ANLEITUNG.md)
-- [ ] Phase 8: Notion CRM + Saxer-Skript + Multi-Touch
-- [ ] Phase 9: Meta-Reflexion
+- [x] Phase 8: Notion CRM + Saxer-Skript + Multi-Touch (Page-ID: 3d69a9a1-5ad6-81ba-b07e-ede44a9391e6)
+- [x] Phase 9: Meta-Reflexion (Alle 10 Core-Vorgaben vollständig integriert)
